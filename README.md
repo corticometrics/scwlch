@@ -26,3 +26,5 @@ This work has been partially funded by the following NIH grants
   - R42AG062026
 
 Thanks to the CWL comminity (see [here](https://gitter.im/common-workflow-language/common-workflow-language?at=5ea0d848f6a6e539796ddecd) for the discussion that led to this project)
+
+Built using [nbdev](https://github.com/fastai/nbdev) on top of the [nbdev_template](https://github.com/fastai/nbdev_template)
